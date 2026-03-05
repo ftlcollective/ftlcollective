@@ -148,19 +148,6 @@ If you're working with me and you see something I could do better — **say it**
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ftlcollective&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftlcollective&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ftlcollective&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
