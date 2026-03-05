@@ -1,10 +1,9 @@
-<h1 align="center">Hi, I'm Tasneem Mahomed 👋</h1>
+<h1 align="center">Hi, I'm Tasneem Mahomed </h1>
 
 <p align="center">
   <img src="./assets/ftl-logo.png" width="600" alt="Fine Tuned Logic" />
 </p>
 <p align="center">
-  <b>Fine Tuned Logic — Systems That Shape Your Life</b><br/>
   <em>Fashion &nbsp;•&nbsp; Health &nbsp;•&nbsp; Tech</em>
 </p>
 
