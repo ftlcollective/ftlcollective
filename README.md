@@ -134,7 +134,9 @@ Cybersecurity *(In Progress)*
 Web Development · SheCodes   
 Women's Health Practitioner  
 TEFL / TESOL
+
 Graphic Design 
+
 Fashion Design   
 Matric  
 
