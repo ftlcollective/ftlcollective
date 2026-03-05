@@ -132,7 +132,7 @@ Fine Tuned Logic exists to build systems that serve people — not just products
 | API Systems *(In Progress)* | Self-directed |
 | Cybersecurity *(In Progress)* | 
 | Web Development | 
-| TEFL / TESOL | GlobalTeflRecruiters |
+| TEFL / TESOL |
 | Graphic Design | 
 | Fashion Design |
 | Matric | 
