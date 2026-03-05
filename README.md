@@ -116,11 +116,12 @@ Fine Tuned Logic exists to build systems that serve people — not just products
 
 | Area | What I Do |
 |---|---|
-| 🩺 Women's Health | Qualified Women's Health Practitioner — education and awareness |
-| 🧠 Mental Health | Open conversations, digital support, destigmatisation |
-| 🛡️ GBV Prevention | Tech-based safety solutions and community advocacy |
-| 👗 Fashion Empowerment | Free online fashion classes for women in need |
-| 🌱 Special Needs Education | Founded NPO to teach digital skills to special needs children |
+| &#x1F489; Women's Health | Qualified Women's Health Practitioner — education and awareness |
+| &#x1F9E0; Mental Health | Open conversations, digital support, destigmatisation |
+| &#x1F6E1;&#xFE0F; GBV Prevention | Tech-based safety solutions and community advocacy |
+| &#x1F457; Fashion Empowerment | Free online fashion classes for women in need |
+| &#x1F331; Special Needs Education | Founded NPO to teach digital skills to special needs children |
+| &#x1F4BB; Women in Tech & STEM | Actively advocate for women entering and staying in tech and STEM — visibility, access, and representation matter |
 
 ---
 
@@ -150,8 +151,12 @@ If you're working with me and you see something I could do better — **say it**
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ftlcollective&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftlcollective&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ftlcollective&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftlcollective&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ftlcollective&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
