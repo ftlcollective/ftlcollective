@@ -125,18 +125,17 @@ Fine Tuned Logic exists to build systems that serve people — not just products
 
 ---
 
-## 🎓 Qualifications
+## 🎓 Education & Qualifications
 
-Full Stack Development 
-AI Training *(In Progress)*  
-API *(In Progress)*  
-Cybersecurity *(In Progress)*  
-Web Development · SheCodes   
-Women's Health Practitioner  
-TEFL / TESOL
-Graphic Design 
-Fashion Design   
-Matric  
+| Full Stack Development |
+| AI Training *(In Progress)* | Active study |
+| API Systems *(In Progress)* | Self-directed |
+| Cybersecurity *(In Progress)* | 
+| Web Development | 
+| TEFL / TESOL | GlobalTeflRecruiters |
+| Graphic Design | 
+| Fashion Design |
+| Matric | 
 
 ---
 
