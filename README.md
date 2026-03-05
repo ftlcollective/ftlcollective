@@ -127,14 +127,16 @@ Fine Tuned Logic exists to build systems that serve people — not just products
 
 ## 🎓 Qualifications
 
-Full Stack Development · IT Varsity — FNB App Academy  
-Cybersecurity *(In Progress)* · SheCodes + part-time study  
-Web Development · SheCodes — Matt Delac Foundation  
-Women's Health Practitioner · Certified  
-TEFL / TESOL · GlobalTeflRecruiters  
-Graphic Design · Andres Academy  
-Fashion Design · Women Empowerment Programme — International SA Designers  
-Matric · Passed  
+Full Stack Development 
+AI Training *(In Progress)*  
+API *(In Progress)*  
+Cybersecurity *(In Progress)*  
+Web Development · SheCodes   
+Women's Health Practitioner  
+TEFL / TESOL
+Graphic Design 
+Fashion Design   
+Matric  
 
 ---
 
