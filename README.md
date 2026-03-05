@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Tasneem Mahomed ✨ </h1>
+<p align="center">
+  <img src="./assets/tasneem-mahomed.png" width="700" alt="Tasneem Mahomed" />
+</p>
 
 <p align="center">
   <img src="./assets/ftl-logo.png" width="600" alt="Fine Tuned Logic" />
