@@ -108,7 +108,7 @@ I am **always learning, ever evolving.** Currently deepening expertise in:
 
 ## 🚀 Projects
 
-> My repositories span full stack web development, cybersecurity demonstrations, social impact platforms, creative technology, and industrial 3D design. Each project is built with intention — solving a real problem, learning something new, or pushing a skill further.
+> My repositories span full stack web development, cybersecurity demonstrations, social impact platforms, creative technology, and industrial 3D design. Each project is built with intention, solving a real problem, learning something new, or pushing a skill further.
 
 **What you'll find here:**
 
